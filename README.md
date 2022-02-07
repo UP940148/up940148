@@ -6,7 +6,7 @@ Have some stats to make me look more professional:
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=up940148&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=up940148&hide=tex,makefile&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=up940148&hide=tex,makefile&langs_count=10&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **UP940148/up940148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
