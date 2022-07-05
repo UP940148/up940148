@@ -1,11 +1,12 @@
 # Hi, my name is Daniel Ellis. Welcome to my GitHub profile!
 
 ## I'm currently a final year undergraduate student at The University of Portsmouth, studying Software Engineering BSc (Hons)
-<p>
+<p align="center">
 <a href="https://d-ellis.net">
-  Check out my website at<br>
+  Check out my website at<br><br>
   <img src="./assets/logo-on-white.svg" width="150"></img>
 </a>
+<br><br>
 </p>
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-ellis&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
