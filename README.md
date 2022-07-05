@@ -1,12 +1,18 @@
 # Hi, my name is Daniel Ellis. Welcome to my GitHub profile!
 
 ## I'm currently a final year undergraduate student at The University of Portsmouth, studying Software Engineering BSc (Hons)
+<p>
+<a href="https://d-ellis.net">
+  Check out my website at<br>
+  <img src="./assets/logo-on-white.svg" width="150"></img>
+</a>
+</p>
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-ellis&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-ellis&hide=tex,makefile&langs_count=10&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://d-ellis.net"><p align="center" display="flex" flex-direction="row" align-items="center">Check out my website at <img src="./assets/logo-on-white.svg" width="150"></p></a>
+
 
 <!--
 **UP940148/up940148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
